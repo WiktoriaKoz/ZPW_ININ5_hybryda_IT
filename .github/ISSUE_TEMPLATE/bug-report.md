@@ -1,7 +1,7 @@
 ---
 name: Zgłoszenie błędu
 about: Zgłoś błąd na stronie ZOO online
-title: [BUG] Krótki opis
+title: "[BUG] Krótki opis"
 labels: bug
 assignees: ''
 ---
